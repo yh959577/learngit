@@ -1,0 +1,34 @@
+﻿  VideoDlg.cpp
+f:\projects\x200activex\x200activex\include\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\projects\x200activex\x200activex\videodlg.cpp(70): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+f:\projects\x200activex\x200activex\videodlg.cpp(162): warning C4267: “+=”: 从“size_t”转换到“UINT16”，可能丢失数据
+f:\projects\x200activex\x200activex\videodlg.cpp(161): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+f:\projects\x200activex\x200activex\videodlg.cpp(185): warning C4267: “+=”: 从“size_t”转换到“UINT16”，可能丢失数据
+f:\projects\x200activex\x200activex\videodlg.cpp(197): warning C4267: “+=”: 从“size_t”转换到“UINT16”，可能丢失数据
+f:\projects\x200activex\x200activex\videodlg.cpp(196): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+f:\projects\x200activex\x200activex\videodlg.cpp(212): warning C4267: “+=”: 从“size_t”转换到“UINT16”，可能丢失数据
+f:\projects\x200activex\x200activex\videodlg.cpp(224): warning C4267: “+=”: 从“size_t”转换到“UINT16”，可能丢失数据
+f:\projects\x200activex\x200activex\videodlg.cpp(223): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+f:\projects\x200activex\x200activex\videodlg.cpp(233): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+f:\projects\x200activex\x200activex\videodlg.cpp(244): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+f:\projects\x200activex\x200activex\videodlg.cpp(274): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+f:\projects\x200activex\x200activex\videodlg.cpp(281): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+f:\projects\x200activex\x200activex\videodlg.cpp(293): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+f:\projects\x200activex\x200activex\videodlg.cpp(311): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+f:\projects\x200activex\x200activex\videodlg.cpp(354): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winsock2.h(1830): note: 参见“inet_addr”的声明
+f:\projects\x200activex\x200activex\videodlg.cpp(372): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+f:\projects\x200activex\x200activex\videodlg.cpp(398): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winsock2.h(1830): note: 参见“inet_addr”的声明
+f:\projects\x200activex\x200activex\videodlg.cpp(416): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+f:\projects\x200activex\x200activex\videodlg.cpp(496): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winsock2.h(1830): note: 参见“inet_addr”的声明
+  X200ActiveX.vcxproj -> F:\Projects\X200ActiveX\Debug\X200ActiveX.ocx

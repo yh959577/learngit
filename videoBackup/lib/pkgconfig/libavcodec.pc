@@ -1,0 +1,14 @@
+prefix=./vs2015
+exec_prefix=${prefix}
+libdir=./vs2015/lib
+includedir=./vs2015/include
+
+Name: libavcodec
+Description: FFmpeg codec library
+Version: 57.108.100
+Requires: 
+Requires.private: libswresample >= 2.10.100, libavutil >= 55.79.100
+Conflicts:
+Libs: -L${libdir}  -lavcodec 
+Libs.private: -liconv -lm
+Cflags: -I${includedir}

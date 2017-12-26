@@ -1,0 +1,14 @@
+prefix=./vs2015
+exec_prefix=${prefix}
+libdir=./vs2015/lib
+includedir=./vs2015/include
+
+Name: libavutil
+Description: FFmpeg utility library
+Version: 55.79.100
+Requires: 
+Requires.private: 
+Conflicts:
+Libs: -L${libdir}  -lavutil 
+Libs.private: -lm -luser32 -ladvapi32
+Cflags: -I${includedir}

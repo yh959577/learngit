@@ -1,0 +1,14 @@
+prefix=./vs2015
+exec_prefix=${prefix}
+libdir=./vs2015/lib
+includedir=./vs2015/include
+
+Name: libswscale
+Description: FFmpeg image rescaling library
+Version: 4.9.100
+Requires: 
+Requires.private: libavutil >= 55.79.100
+Conflicts:
+Libs: -L${libdir}  -lswscale 
+Libs.private: -lm
+Cflags: -I${includedir}

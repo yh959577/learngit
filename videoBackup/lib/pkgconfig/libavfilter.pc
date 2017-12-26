@@ -1,0 +1,14 @@
+prefix=./vs2015
+exec_prefix=${prefix}
+libdir=./vs2015/lib
+includedir=./vs2015/include
+
+Name: libavfilter
+Description: FFmpeg audio/video filtering library
+Version: 6.108.100
+Requires: 
+Requires.private: libswscale >= 4.9.100, libavformat >= 57.84.100, libavcodec >= 57.108.100, libswresample >= 2.10.100, libavutil >= 55.79.100
+Conflicts:
+Libs: -L${libdir}  -lavfilter 
+Libs.private: -lm
+Cflags: -I${includedir}

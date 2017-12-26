@@ -1,0 +1,38 @@
+﻿  64 bit Processing .\X200ActiveX.idl
+  X200ActiveX.idl
+  64 bit Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\oaidl.idl
+  oaidl.idl
+  64 bit Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\objidl.idl
+  objidl.idl
+  64 bit Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\unknwn.idl
+  unknwn.idl
+  64 bit Processing C:\Program Files (x86)\Windows Kits\8.1\Include\shared\wtypes.idl
+  wtypes.idl
+  64 bit Processing C:\Program Files (x86)\Windows Kits\8.1\Include\shared\wtypesbase.idl
+  wtypesbase.idl
+  64 bit Processing C:\Program Files (x86)\Windows Kits\8.1\Include\shared\basetsd.h
+  basetsd.h
+  64 bit Processing C:\Program Files (x86)\Windows Kits\8.1\Include\shared\guiddef.h
+  guiddef.h
+  64 bit Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\oaidl.acf
+  oaidl.acf
+  stdafx.cpp
+  AudioDecoder.cpp
+d:\我的文档\visual studio 2015\projects\x200activex\x200activex\AudioDecoder.h(4): fatal error C1083: 无法打开包括文件: “libavcodec\avcodec.h”: No such file or directory
+  cJSON.cpp
+cJSON.cpp(36): fatal error C1083: 无法打开包括文件: “cJSON.hpp”: No such file or directory
+  DisplayWindow.cpp
+d:\我的文档\visual studio 2015\projects\x200activex\x200activex\VideoDecoder.h(4): fatal error C1083: 无法打开包括文件: “libavcodec\avcodec.h”: No such file or directory
+  Tools.cpp
+  UdpDataStruct.cpp
+  VideoDecoder.cpp
+d:\我的文档\visual studio 2015\projects\x200activex\x200activex\VideoDecoder.h(4): fatal error C1083: 无法打开包括文件: “libavcodec\avcodec.h”: No such file or directory
+  VideoDlg.cpp
+d:\我的文档\visual studio 2015\projects\x200activex\x200activex\AudioDecoder.h(4): fatal error C1083: 无法打开包括文件: “libavcodec\avcodec.h”: No such file or directory
+  VideoScreen.cpp
+d:\我的文档\visual studio 2015\projects\x200activex\x200activex\VideoScreen.h(3): fatal error C1083: 无法打开包括文件: “SDL.h”: No such file or directory
+  VideoStatic.cpp
+  X200ActiveX.cpp
+  X200ActiveXCtrl.cpp
+d:\我的文档\visual studio 2015\projects\x200activex\x200activex\AudioDecoder.h(4): fatal error C1083: 无法打开包括文件: “libavcodec\avcodec.h”: No such file or directory
+  X200ActiveXPropPage.cpp
