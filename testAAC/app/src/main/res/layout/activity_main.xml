@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.cc.yh.myapplication.MainActivity">
+
+    <Button
+        android:id="@+id/record_AAC"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="84dp"
+        android:text="@string/start_recorder_AAC"
+        app:layout_constraintEnd_toStartOf="@+id/button"
+        tools:layout_editor_absoluteY="2dp"/>
+
+    <Button
+        android:id="@+id/play_AAC"
+        android:layout_width="96dp"
+        android:layout_height="54dp"
+        app:layout_constraintTop_toTopOf="@id/record_AAC"
+        android:layout_marginTop="50dp"
+        android:text="@string/play_AAC"
+        />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Button"
+        app:layout_constraintLeft_toLeftOf="@id/record_AAC"
+
+        />
+
+
+</android.support.constraint.ConstraintLayout>
